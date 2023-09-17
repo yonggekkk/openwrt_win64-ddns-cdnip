@@ -8,7 +8,6 @@ curl -sSL https://gitlab.com/rwkgyg/cdnopw/raw/main/cdnopw.sh -o cdnopw.sh && ba
 
 --------------------------------------
 
-![7bc382d0d2ecc865857b12268747c84](https://github.com/yonggekkk/openwrt-ddns-cdnip/assets/121604513/48375ad3-060f-417a-bc63-568f25583a13)
 
 
 ### 参考项目：[lee1080](https://github.com/lee1080/CloudflareSpeedTestDDNS)
