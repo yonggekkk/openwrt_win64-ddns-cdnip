@@ -7,7 +7,8 @@ curl -ksSL https://gitlab.com/rwkgyg/cdnopw/raw/main/cdnopw.sh -o cdnopw.sh && b
 ```
 
 --------------------------------------
-![974e9c5eb0cff8851f156fc01923b02](https://github.com/yonggekkk/openwrt-ddns-cdnip/assets/121604513/ae935278-f55e-4c29-9433-d848888413f8)
+![47918a52b4d93487e5e7935d5916d34](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip/assets/121604513/e5bf0972-19d0-41bd-b54a-6867869e1480)
+
 
 
 ----------------------------------------
