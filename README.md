@@ -10,6 +10,9 @@ curl -ksSL https://gitlab.com/rwkgyg/cdnopw/raw/main/cdnopw.sh -o cdnopw.sh && b
 
 ![47918a52b4d93487e5e7935d5916d34](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip/assets/121604513/dd6758ec-f8d4-4a6c-b51d-9144ec993193)
 
+-------------------------------------------------------------
+### 感谢你右上角的star🌟
+[![Stargazers over time](https://starchart.cc/yonggekkk/openwrt_win64-ddns-cdnip.svg)](https://starchart.cc/yonggekkk/openwrt_win64-ddns-cdnip)
 
 ----------------------------------------
 ### 参考项目：[lee1080](https://github.com/lee1080/CloudflareSpeedTestDDNS)
