@@ -10,7 +10,9 @@ curl -ksSL https://gitlab.com/rwkgyg/cdnopw/raw/main/cdnopw.sh -o cdnopw.sh && b
 
 ![47918a52b4d93487e5e7935d5916d34](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip/assets/121604513/dd6758ec-f8d4-4a6c-b51d-9144ec993193)
 
--------------------------------------------------------------
+-----------------------------------------------------
+### 交流平台：[甬哥博客地址](https://ygkkk.blogspot.com)、[甬哥YouTube频道](https://www.youtube.com/@ygkkk)、[甬哥TG电报群组](https://t.me/+jZHc6-A-1QQ5ZGVl)、[甬哥TG电报频道](https://t.me/+DkC9ZZUgEFQzMTZl)
+-----------------------------------------------------
 ### 感谢你右上角的star🌟
 [![Stargazers over time](https://starchart.cc/yonggekkk/openwrt_win64-ddns-cdnip.svg)](https://starchart.cc/yonggekkk/openwrt_win64-ddns-cdnip)
 
