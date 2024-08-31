@@ -1,5 +1,8 @@
 # cdnopw
+### 一键脚本
+```
 curl -ksSL https://gitlab.com/rwkgyg/cdnopw/raw/main/cdnopw.sh -o cdnopw.sh && bash cdnopw.sh
+```
 
 
 ## Getting started
