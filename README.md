@@ -13,6 +13,10 @@ curl -ksSL https://gitlab.com/rwkgyg/cdnopw/raw/main/cdnopw.sh -o cdnopw.sh && b
 -----------------------------------------------------
 ### 交流平台：[甬哥博客地址](https://ygkkk.blogspot.com)、[甬哥YouTube频道](https://www.youtube.com/@ygkkk)、[甬哥TG电报群组](https://t.me/+jZHc6-A-1QQ5ZGVl)、[甬哥TG电报频道](https://t.me/+DkC9ZZUgEFQzMTZl)
 -----------------------------------------------------
+### 微信打赏甬哥侃侃侃ygkkk
+![41440820a366deeb8109db5610313a1](https://github.com/user-attachments/assets/4680120f-f605-4ffc-b34a-ea1923cb3a12)
+
+-----------------------------------------------------
 ### 感谢你右上角的star🌟
 [![Stargazers over time](https://starchart.cc/yonggekkk/openwrt_win64-ddns-cdnip.svg)](https://starchart.cc/yonggekkk/openwrt_win64-ddns-cdnip)
 
@@ -23,7 +27,4 @@ curl -ksSL https://gitlab.com/rwkgyg/cdnopw/raw/main/cdnopw.sh -o cdnopw.sh && b
 
 ---------------------------------------
 #### 声明：
-
-#### 该项目使用base64加密，可自行解密，介意者请勿使用，[加密原因在此](https://ygkkk.blogspot.com/2022/06/github.html)
-
-#### 所有代码来源于Github社区与ChatGPT的整合；如您需要开源代码，请提Issues留下您的联系邮箱
+#### 所有代码来源于Github社区与ChatGPT的整合
